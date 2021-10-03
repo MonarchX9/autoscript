@@ -10,7 +10,7 @@ echo -e "\nServices:
 4) Squid3\t\t8080
 5) OpenVPN\t\t1194
 6) Xray\t\t\t443
-7) V2ray\t\t\t80
+7) V2ray\t\t80
 7) WireGuard\t\t51820
 8) Open HTTP Puncher\t8000(OpenVPN), 3128(Dropbear)
 9) BadVPN UDPGw\t\t7300
